@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Aarnav Agarwal.
-- 🌱  I am currently working on Commune - A decentralised token-based ecosystem to bring the future to the present. 
+- 🌱  I am currently working on Xade - A decentralised token-based ecosystem. 
 - 📫  You can reach me through mail at aarnavagarwal.2016@gmail.com
 
 
