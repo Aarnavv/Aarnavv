@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Aarnav Agarwal.
-- 🌱  I am working on Xade - A decentralised token-based ecosystem. 
+- 🌱  I am working on a couple of projects (maybe more, who knows?). 
 - 📜  Website manager for [Innominate](https://the-innominate-newsletter.github.io/). Repository [here](https://github.com/Aarnavv/Innominate-React).
 - 📫  You can reach me through mail at aarnavagarwal.2016@gmail.com
 
